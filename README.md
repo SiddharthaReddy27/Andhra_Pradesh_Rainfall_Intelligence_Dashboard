@@ -138,3 +138,45 @@ Andhra_Pradesh_Rainfall_Intelligence_Dashboard
 - ✅ Developed **30+ advanced SQL queries** using joins, CTEs, window functions, subqueries, and aggregations.
 - ✅ Built an interactive **4-page Power BI dashboard** with DAX measures, KPI cards, synchronized slicers, and analytical visualizations.
 - ✅ Performed district-wise, temporal, and extreme rainfall analysis to generate actionable business insights.
+
+
+---
+
+# 📊 Advanced SQL Analytics
+
+The project includes **30+ SQL queries** to perform comprehensive rainfall analysis and generate business insights.
+
+### SQL Concepts Demonstrated
+
+- Joins (INNER JOIN, LEFT JOIN)
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- Subqueries
+- GROUP BY & HAVING
+- Ranking Functions
+- Date-Based Analysis
+- Conditional Filtering
+- Analytical Queries
+
+### Key SQL Analyses
+
+- District-wise Rainfall Analysis
+- Monthly Rainfall Trends
+- Year-wise Rainfall Summary
+- Heavy Rainfall Event Analysis
+- Extreme Rainfall Event Detection
+- Top & Bottom Performing Districts
+- Seasonal Rainfall Patterns
+- Rainfall Ranking using Window Functions
+
+
+---
+
+# 💡 Key Insights
+
+- Identified the districts receiving the highest cumulative rainfall during the study period.
+- Analyzed monthly and yearly rainfall trends to understand seasonal rainfall patterns.
+- Detected heavy and extreme rainfall events for rainfall monitoring and decision support.
+- Compared district-wise rainfall performance using interactive Power BI dashboards.
+- Built a scalable analytical pipeline that transforms raw rainfall data into actionable business insights.
