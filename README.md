@@ -39,3 +39,30 @@ The workflow includes:
                            ▼
              Business Insights & Decision Support
 ```
+
+---
+
+# 📊 Dashboard Preview
+
+## Executive Overview
+
+![Overview](Dashboard/Screenshots/Overview.png)
+
+---
+
+## District Analysis
+
+![District Analysis](Dashboard/Screenshots/District_Analysis.png)
+
+---
+
+## Temporal Analysis
+
+![Temporal Analysis](Dashboard/Screenshots/Temporal_Analysis.png)
+
+---
+
+## Insights & Extremes
+
+![Insights & Extremes](Dashboard/Screenshots/Insights_and_Extremes.png)
+
