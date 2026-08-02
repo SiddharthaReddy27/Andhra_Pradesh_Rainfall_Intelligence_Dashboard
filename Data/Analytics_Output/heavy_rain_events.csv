@@ -1,0 +1,32 @@
+District,Year,Heavy_rain_events
+Ananthapur,2021,1
+Chittoor,2021,2
+Chittoor,2022,1
+Chittoor,2023,1
+East Godavari,2021,2
+East Godavari,2023,2
+East Godavari,2024,2
+Guntur,2023,3
+Guntur,2024,1
+Kadapa,2021,2
+Kadapa,2023,2
+Krishna,2021,3
+Krishna,2023,2
+Krishna,2024,2
+Nellore,2021,6
+Nellore,2022,4
+Nellore,2023,2
+Prakasam,2022,2
+Prakasam,2023,2
+Prakasam,2024,2
+Srikakulam,2021,1
+Srikakulam,2024,1
+Visakhapatnam,2021,1
+Visakhapatnam,2023,1
+Visakhapatnam,2024,2
+Visakhapatnam,2025,2
+Vizianagaram,2021,2
+Vizianagaram,2022,1
+West Godavari,2021,3
+West Godavari,2023,2
+West Godavari,2024,2

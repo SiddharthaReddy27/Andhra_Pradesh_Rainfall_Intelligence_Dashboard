@@ -1,0 +1,66 @@
+District,Year,Rainy_days
+Ananthapur,2021,222
+Ananthapur,2022,202
+Ananthapur,2023,194
+Ananthapur,2024,270
+Ananthapur,2025,266
+Chittoor,2021,234
+Chittoor,2022,226
+Chittoor,2023,231
+Chittoor,2024,270
+Chittoor,2025,220
+East Godavari,2021,233
+East Godavari,2022,208
+East Godavari,2023,213
+East Godavari,2024,282
+East Godavari,2025,218
+Guntur,2021,205
+Guntur,2022,185
+Guntur,2023,197
+Guntur,2024,276
+Guntur,2025,236
+Kadapa,2021,205
+Kadapa,2022,204
+Kadapa,2023,203
+Kadapa,2024,271
+Kadapa,2025,260
+Krishna,2021,199
+Krishna,2022,190
+Krishna,2023,193
+Krishna,2024,263
+Krishna,2025,238
+Kurnool,2021,218
+Kurnool,2022,219
+Kurnool,2023,196
+Kurnool,2024,260
+Kurnool,2025,260
+Nellore,2021,200
+Nellore,2022,190
+Nellore,2023,209
+Nellore,2024,253
+Nellore,2025,200
+Prakasam,2021,220
+Prakasam,2022,200
+Prakasam,2023,218
+Prakasam,2024,249
+Prakasam,2025,204
+Srikakulam,2021,206
+Srikakulam,2022,177
+Srikakulam,2023,201
+Srikakulam,2024,279
+Srikakulam,2025,216
+Visakhapatnam,2021,249
+Visakhapatnam,2022,220
+Visakhapatnam,2023,220
+Visakhapatnam,2024,289
+Visakhapatnam,2025,232
+Vizianagaram,2021,212
+Vizianagaram,2022,194
+Vizianagaram,2023,211
+Vizianagaram,2024,293
+Vizianagaram,2025,216
+West Godavari,2021,221
+West Godavari,2022,203
+West Godavari,2023,186
+West Godavari,2024,269
+West Godavari,2025,236
