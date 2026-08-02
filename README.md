@@ -85,3 +85,56 @@ The star schema minimizes data redundancy, improves query performance, and provi
 
 ![Insights & Extremes](Dashboard/Screenshots/Insights_and_Extremes.png)
 
+
+---
+
+# 📂 Project Structure
+
+```text
+Andhra_Pradesh_Rainfall_Intelligence_Dashboard
+│
+├── Data
+│   ├── Raw_Data
+│   ├── Processed_Data
+│   └── Analytics_Output
+│
+├── Notebooks
+│   └── Rainfall_Analytics.ipynb
+│
+├── Dashboard
+│   ├── AP_Rainfall_Intelligence_Dashboard.pbix
+│   ├── Dashboard.pdf
+│   └── Screenshots
+│
+├── README.md
+├── LICENSE
+└── requirements.txt
+```
+
+---
+
+# 🛠️ Technologies Used
+
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Database | SQLite |
+| Query Language | SQL |
+| Notebook Environment | Jupyter Notebook |
+| Business Intelligence | Power BI |
+| Data Modeling | Star Schema |
+| Analytics | DAX, KPI Design |
+| Visualization | Power BI Visuals |
+| Version Control | Git & GitHub |
+
+
+---
+
+# ⭐ Project Features
+
+- ✅ Cleaned and transformed **23,478+ district-wise rainfall records (2021–2025)** using Python.
+- ✅ Designed an optimized **Star Schema** with fact and dimension tables in SQLite.
+- ✅ Developed **30+ advanced SQL queries** using joins, CTEs, window functions, subqueries, and aggregations.
+- ✅ Built an interactive **4-page Power BI dashboard** with DAX measures, KPI cards, synchronized slicers, and analytical visualizations.
+- ✅ Performed district-wise, temporal, and extreme rainfall analysis to generate actionable business insights.
