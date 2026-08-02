@@ -15,3 +15,27 @@ The workflow includes:
 - Advanced SQL Analytics
 - Interactive Power BI Dashboard
 - Business Intelligence & Data Storytelling
+
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+                 Raw Rainfall Data (2021–2025)
+                           │
+                           ▼
+        Python (Pandas & NumPy - Data Cleaning & Transformation)
+                           │
+                           ▼
+             SQLite Database (Star Schema Design)
+                           │
+                           ▼
+          Advanced SQL Analytics (30+ SQL Queries)
+                           │
+                           ▼
+        Power BI Dashboard (DAX, KPIs & Visualizations)
+                           │
+                           ▼
+             Business Insights & Decision Support
+```
