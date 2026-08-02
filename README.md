@@ -62,6 +62,25 @@ The workflow includes:
 
 ---
 
+# 🗄️ Data Model
+
+The project follows a **Star Schema** data model to support efficient analytical querying and reporting.
+
+### Fact Table
+- **rainfall_fact** – Stores rainfall measurements and links to dimension tables.
+
+### Dimension Tables
+- **date_dim** – Date, Month, Quarter, Year
+- **district_dim** – District information
+
+### Data Model
+
+![Power BI Data Model](Dashboard/Screenshots/PowerBI_Data_Model.png)
+
+The star schema minimizes data redundancy, improves query performance, and provides a scalable foundation for Power BI reporting.
+
+---
+
 ## Insights & Extremes
 
 ![Insights & Extremes](Dashboard/Screenshots/Insights_and_Extremes.png)
