@@ -180,3 +180,43 @@ The project includes **30+ SQL queries** to perform comprehensive rainfall analy
 - Detected heavy and extreme rainfall events for rainfall monitoring and decision support.
 - Compared district-wise rainfall performance using interactive Power BI dashboards.
 - Built a scalable analytical pipeline that transforms raw rainfall data into actionable business insights.
+
+
+---
+
+# ▶️ How to Run
+
+1. Clone the repository.
+2. Open the Jupyter Notebook located in the `Notebooks` folder.
+3. Execute the notebook to perform data preprocessing and SQL analytics.
+4. Open `AP_Rainfall_Intelligence_Dashboard.pbix` in Power BI Desktop.
+5. Refresh the data source if required to explore the interactive dashboard.
+
+
+---
+
+# 🚀 Future Enhancements
+
+- Integrate real-time rainfall data using weather APIs.
+- Develop machine learning models for rainfall forecasting.
+- Publish the dashboard using Power BI Service for online access.
+- Expand the project to include rainfall prediction and flood-risk analysis.
+- Automate ETL workflows for periodic data refresh.
+
+
+---
+
+# 🎯 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Relational Database Design
+- Star Schema Modeling
+- SQLite Database Management
+- Advanced SQL
+- DAX Measures
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Analytical Storytelling
+- Git & GitHub
